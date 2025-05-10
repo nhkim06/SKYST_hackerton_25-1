@@ -1,0 +1,22 @@
+h1 {
+    background-color: rgb(55, 67, 117);
+    color: rgb(255, 255, 245);
+    padding: 8px 0;
+    margin-bottom: 20px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-image: none;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.tagesschrift-regular {
+    font-family: "Tagesschrift", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
